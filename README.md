@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/C++-4479A1?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/JAVA-1572B6?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-47A248?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-ff00ff?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-40A268?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/HTML-ff00ff?style=flat-square&logo=html5&logoColor=white"/></a> &nbsp 
 <br>
 
 <!--
