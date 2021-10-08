@@ -1,12 +1,17 @@
-<h1>GameProgrammer With Unity</h1>
+<h1 align="center" >GameProgrammer With Unity</h1>
+<p align="center">안녕하세요. 게임 프로그래머 윤창민입니다.
+<p align="center">blog : https://blog.naver.com/storycat97
+<p align="center">E-mail : storycat97@naver.com || dlwlxns4@gmail.com
+ 
+<p align="center"><h1 align="center">Tech Stack</h1> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Unity-E34F26?style=flat-square&logo=unity&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JAVA-1572B6?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSharp-F7DF1E?style=flat-square&logo=csharp&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-47A248?style=flat-square&logo=python&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/C++-4479A1?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/MySQL-ff00ff?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <br>
-<h1>Tech Stack</h1>
-<li>Unity</li>
-<li>C#</li>
-<li>JAVA</li>
-<li>Python</li>
-<li>MySQL</li>
-
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwlxns4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
