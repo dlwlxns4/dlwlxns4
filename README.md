@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/C++-4479A1?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MySQL-ff00ff?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <br>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwlxns4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dlwlxns4/dlwlxns4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
