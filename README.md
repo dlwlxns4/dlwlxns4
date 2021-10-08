@@ -1,4 +1,11 @@
 <h1>GameProgrammer With Unity</h1>
+<br>
+<h1>Tech Stack</h1>
+<li>Unity</li>
+<li>C#</li>
+<li>JAVA</li>
+<li>Python</li>
+<li>MySQL</li>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlwlxns4)](https://github.com/anuraghazra/github-readme-stats)
 
