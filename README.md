@@ -1,5 +1,5 @@
 <h1 align="center" >GameProgrammer with Unity</h1>
-<p align="center">안녕하세요. 게임 개발자 창민입니다..
+<p align="center">안녕하세요. 게임 개발자 창민입니다.
 <p align="center">blog : https://blog.naver.com/storycat97
 <p align="center">E-mail : storycat97@naver.com || dlwlxns4@gmail.com
 
